@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-We perform EDA to look for patterns in the usage of Chicago's bicycle and scooter system, Divvy, and train models to predict variables such as the demand at a given station.
+We perform exploratory data analysis and visualize patterns in the usage of Chicago's bikeshare program over a two year period and train a model to predict future demand.
 
 ## Project Organization
 
