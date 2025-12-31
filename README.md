@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-We perform exploratory data analysis and visualize patterns in the usage of Chicago's bikeshare program over a two year period and train a model to predict future demand.
+We study and visualize patterns in the usage of Chicago's bikeshare program over a two year period and then train a model to predict future demand at each station.
 
 ## Project Organization
 
